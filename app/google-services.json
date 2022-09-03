@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "128134830505",
+    "firebase_url": "https://server-temperature-8d4d9.firebaseio.com",
+    "project_id": "server-temperature-8d4d9",
+    "storage_bucket": "server-temperature-8d4d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128134830505:android:c3d68f97475dbe91800cb8",
+        "android_client_info": {
+          "package_name": "com.systemsapp.creativetemparature"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128134830505-sngs3896m5sn6asmcugse1a4vqop3ops.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.systemsapp.creativetemparature",
+            "certificate_hash": "9df0aebce1a8b024110c28709a2813965bcb0996"
+          }
+        },
+        {
+          "client_id": "128134830505-6ij4apdffi1u7hu6gojl3pclr9532vn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKYVYsBtcXdCBBAKw6tucbtDFim0Vunq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128134830505-6ij4apdffi1u7hu6gojl3pclr9532vn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
